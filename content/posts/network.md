@@ -6,7 +6,7 @@ draft: false
 
 **Download**
 
-- [PPT]( /files/network/Networks_PPT.rar)
+- [PPT]( ../../files/network/Networks_PPT.rar)
 
 - [Wireshark Lab](/files/network/labs.rar)
 
