@@ -1,14 +1,15 @@
 ---
-title: "Computer Networks"
+title: "Computer Networks (B452L08600)"
 date: 2019-02-25T09:46:09-07:00
 draft: false
 ---
 
-**[Course PPT]**
-( /files/Networks_PPT.rar)
+**Download**
 
-Chap. 1. Intro
+- [PPT]( /files/network/Networks_PPT.rar)
 
-Chap. 2. App. Layer
+- [Wireshark Lab](/files/network/labs.rar)
 
-Chap. 3. Trans. Layer
+****
+
+Update in 2019
