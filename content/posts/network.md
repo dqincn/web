@@ -1,5 +1,5 @@
 ---
-title: "Computer Networks (B452L08600)"
+title: "Computer Networks (B452L09800)"
 date: 2019-02-25T09:46:09-07:00
 draft: false
 ---
