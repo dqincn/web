@@ -6,10 +6,10 @@ draft: false
 
 **Download**
 
-- [PPT]( /web/files/network/Networks_PPT.rar)
+- [Chapter 01]( /web/files/network/ppt/Chapter_1_V7.01.ppt)
 
-- [Wireshark Lab](/web/files/network/labs.rar)
+- [Wireshark Lab (6e)](/web/files/network/labs.rar)
 
 ****
 
-Update in Mar. 2019
+Updated in Mar. 2019
