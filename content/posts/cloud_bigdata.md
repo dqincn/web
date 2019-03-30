@@ -4,6 +4,8 @@ date: 2019-02-25T10:17:46-07:00
 draft: false
 ---
 
-云计算与大数据处理
+云计算与大数据处理 Cloud and Big Data
 
-Cloud and Big Data
+**Download**
+
+- [Chapter 01]( /web/files/cloud/ppt/第1章-云计算概论.pptx)
