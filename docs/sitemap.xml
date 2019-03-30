@@ -23,6 +23,12 @@
   </url>
   
   <url>
+    <loc>http://dqincn.github.io/web/</loc>
+    <lastmod>2019-03-06T09:46:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dqincn.github.io/web/posts/</loc>
     <lastmod>2019-03-06T09:46:09-07:00</lastmod>
     <priority>0</priority>
@@ -30,12 +36,6 @@
   
   <url>
     <loc>http://dqincn.github.io/web/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dqincn.github.io/web/</loc>
-    <lastmod>2019-03-06T09:46:09-07:00</lastmod>
     <priority>0</priority>
   </url>
   

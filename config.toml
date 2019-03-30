@@ -1,5 +1,5 @@
 baseURL = "http://dqincn.github.io/web"
 languageCode = "zh-cn"
-title = "Web Site of Dali Qin"
+title = "Dali Qin"
 theme = "ananke"
 publishDir = "docs"
