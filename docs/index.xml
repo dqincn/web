@@ -6,10 +6,22 @@
     <description>Recent content on Web Site of Dali Qin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 25 Feb 2019 10:17:46 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 09:46:09 -0700</lastBuildDate>
     
 	<atom:link href="http://dqincn.github.io/web/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Formulas</title>
+      <link>http://dqincn.github.io/web/posts/formulas/</link>
+      <pubDate>Wed, 06 Mar 2019 09:46:09 -0700</pubDate>
+      
+      <guid>http://dqincn.github.io/web/posts/formulas/</guid>
+      <description>$$ f(x) = \sum{i=0}^{N} \int{a}^{b} g(t,i) \text{d}t \tag{a} $$
+$ f(x) = \sum{i=0}^{N} \int{a}^{b} g(t,i) \text{d}t $
+$$\sqrt{x^{2}+\sqrt{y}} \tag{2-1}$$
+$ \overline{x+y} $</description>
+    </item>
     
     <item>
       <title>Cloud and Big Data</title>
@@ -28,9 +40,9 @@ Cloud and Big Data</description>
       
       <guid>http://dqincn.github.io/web/posts/network/</guid>
       <description>Download
- PPT
- Wireshark Lab
-  Update in Mar. 2019</description>
+ Chapter 01
+ Wireshark Lab (6e)
+  Updated in Mar. 2019</description>
     </item>
     
   </channel>
