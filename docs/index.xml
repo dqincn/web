@@ -6,32 +6,22 @@
     <description>Recent content on Dali Qin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 Mar 2019 09:46:09 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2019 10:17:46 -0700</lastBuildDate>
     
 	<atom:link href="http://dqincn.github.io/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Formulas</title>
-      <link>http://dqincn.github.io/web/posts/formulas/</link>
-      <pubDate>Wed, 06 Mar 2019 09:46:09 -0700</pubDate>
-      
-      <guid>http://dqincn.github.io/web/posts/formulas/</guid>
-      <description>$$ f(x) = \sum{i=0}^{N} \int{a}^{b} g(t,i) \text{d}t \tag{a} $$
-$ f(x) = \sum{i=0}^{N} \int{a}^{b} g(t,i) \text{d}t $
-$$\sqrt{x^{2}+\sqrt{y}} \tag{2-1}$$
-$ \overline{x+y} $</description>
-    </item>
-    
-    <item>
       <title>Cloud and Big Data</title>
       <link>http://dqincn.github.io/web/posts/cloud_bigdata/</link>
-      <pubDate>Mon, 25 Feb 2019 10:17:46 -0700</pubDate>
+      <pubDate>Sat, 30 Mar 2019 10:17:46 -0700</pubDate>
       
       <guid>http://dqincn.github.io/web/posts/cloud_bigdata/</guid>
-      <description>云计算与大数据处理 Cloud and Big Data
-Download
- Chapter 01  </description>
+      <description>云计算与大数据处理
+PPT Download
+ Chapter 01
+ Chapter 02
+  </description>
     </item>
     
     <item>
