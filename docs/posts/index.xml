@@ -25,6 +25,15 @@ PPT Download
     </item>
     
     <item>
+      <title>Formulas</title>
+      <link>http://dqincn.github.io/web/posts/formulas/</link>
+      <pubDate>Wed, 06 Mar 2019 09:46:09 -0700</pubDate>
+      
+      <guid>http://dqincn.github.io/web/posts/formulas/</guid>
+      <description>e^{i\pi} + 1 = 0  f(x) = \sum_{i=0}^{N} \int_{a}^{b} g(t,i) \text{d}t \tag{a}  f(x) = \sum_{i=0}^{N} \int_{a}^{b} g(t,i) \text{d}t  \sqrt{x^{2}+\sqrt{y}} \tag{2-1}  \overline{x+y}  </description>
+    </item>
+    
+    <item>
       <title>Computer Networks (B452L09800)</title>
       <link>http://dqincn.github.io/web/posts/network/</link>
       <pubDate>Mon, 25 Feb 2019 09:46:09 -0700</pubDate>
