@@ -6,7 +6,7 @@ draft: false
 
 **PPT**
 
-- [Chapter 01]( /web/files/network/ppt/Chapter_1_V7.01.ppt)
+- [Chapter 01-06]( /web/files/network/ppt.rar)
 
 **Wireshark Lab**
 
