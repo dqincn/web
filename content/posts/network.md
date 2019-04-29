@@ -4,12 +4,17 @@ date: 2019-02-25T09:46:09-07:00
 draft: false
 ---
 
-**Download**
+**PPT**
 
 - [Chapter 01]( /web/files/network/ppt/Chapter_1_V7.01.ppt)
 
-- [Wireshark Lab (6e)](/web/files/network/labs.rar)
+**Wireshark Lab**
+
+- [Wireshark Introduction v7.0](/web/files/network/lab/Wireshark_Intro_v7.0_CN.pdf)
+
+- [Wireshark Lab - HTTP (6e)](/web/files/network/lab/Wireshark_HTTP_v6.1_CN.pdf)
+
 
 ****
 
-Updated in Mar. 2019
+Updated in Apr. 2019
