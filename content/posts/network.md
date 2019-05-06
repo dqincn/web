@@ -10,11 +10,16 @@ draft: false
 
 **Wireshark Lab**
 
-- [Wireshark Introduction v7.0](/web/files/network/lab/Wireshark_Intro_v7.0_CN.pdf)
+- [Wireshark Introduction (7e)](/web/files/network/lab/Wireshark_Intro_v7.0_CN.pdf)
 
 - [Wireshark Lab - HTTP (6e)](/web/files/network/lab/Wireshark_HTTP_v6.1_CN.pdf)
 
+- [Wireshark Lab - UDP (7e)](/web/files/network/lab/Wireshark_UDP_v7.0_CN.pdf)
+
+- [Wireshark Lab - TCP (6e)](/web/files/network/lab/Wireshark_TCP_v6.0_CN.pdf)
+
+- [Wireshark Lab - IP (7e)](/web/files/network/lab/Wireshark_IP_v7.0_Simplied_Chinese.pdf)
 
 ****
 
-Updated in Apr. 2019
+Updated in May 2019.
