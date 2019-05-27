@@ -19,18 +19,9 @@
       <guid>http://dqincn.github.io/web/posts/cloud_bigdata/</guid>
       <description>云计算与大数据处理
 PPT Download
- Chapter 01
- Chapter 02
+ 云计算部分
+ 大数据部分
   </description>
-    </item>
-    
-    <item>
-      <title>Formulas</title>
-      <link>http://dqincn.github.io/web/posts/formulas/</link>
-      <pubDate>Wed, 06 Mar 2019 09:46:09 -0700</pubDate>
-      
-      <guid>http://dqincn.github.io/web/posts/formulas/</guid>
-      <description>e^{i\pi} + 1 = 0  f(x) = \sum_{i=0}^{N} \int_{a}^{b} g(t,i) \text{d}t \tag{a}  f(x) = \sum_{i=0}^{N} \int_{a}^{b} g(t,i) \text{d}t  \sqrt{x^{2}+\sqrt{y}} \tag{2-1}  \overline{x+y}  </description>
     </item>
     
     <item>
