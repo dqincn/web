@@ -29,6 +29,8 @@ draft: false
 
 在github上有一套详细的[本教材资源](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)，内容包括套接字作业（官方文档、翻译、解答），Wireshark实验官方文档及翻译、教材习题解答等，推荐下载。
 
+**Exam**
 
+- [复习提纲](/web/files/network/review.pdf)
 
-Updated in May 2019.
+Updated in June 2019.
