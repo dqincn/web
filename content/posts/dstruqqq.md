@@ -1,6 +1,6 @@
 ---
 title: "Data Structure (B452L06500)"
-date: 2019-09-03T23:44:52+08:00
+date: 2019-09-03T19:23:09-09:00
 draft: false
 ---
 
@@ -24,5 +24,3 @@ draft: false
 - [第二部分](/web/files/dstru/4_算法演示动画_2.rar)
 
 Updated in Sept 2019.
-
-

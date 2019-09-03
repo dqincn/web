@@ -6,10 +6,23 @@
     <description>Recent content on Dali Qin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 30 Mar 2019 10:17:46 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 23:44:52 +0800</lastBuildDate>
     
 	<atom:link href="http://dqincn.github.io/web/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Structure (B452L06500)</title>
+      <link>http://dqincn.github.io/web/posts/dstru/</link>
+      <pubDate>Tue, 03 Sep 2019 23:44:52 +0800</pubDate>
+      
+      <guid>http://dqincn.github.io/web/posts/dstru/</guid>
+      <description>PPT
+ 下载（持续更新）  Lab
+ 实验指导书  源代码
+ 下载  算法演示动画
+ 第一部分 第二部分  Updated in Sept 2019.</description>
+    </item>
     
     <item>
       <title>Cloud and Big Data</title>
