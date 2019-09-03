@@ -20,6 +20,7 @@ draft: false
 
 **算法演示动画**
 
-- [复习提纲](/web/files/dstru/4.算法演示动画.rar)
+- [第一部分](/web/files/dstru/4.算法演示动画_1.rar)
+- [第二部分](/web/files/dstru/4.算法演示动画_2.rar)
 
 Updated in Sept 2019.
